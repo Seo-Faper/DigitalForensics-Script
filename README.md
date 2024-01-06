@@ -1,7 +1,6 @@
 # DigitalForensics-Script
-디포 문제 풀 때 도움 되는 스크립트 모음집
 
-- 스테가노 기법
+## 디포 문제 풀 때 도움 되는 스크립트 모음집
 
 PNG CRC 청크 복구 (width, height)
 ```
